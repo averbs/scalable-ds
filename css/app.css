@@ -123,4 +123,9 @@ table th, h4 {
 .article h3 {
   font-size: 14px;
   color: #707070;
+  margin: 0px;
+}
+.article:hover {
+  border-radius: 8px;
+  background: #f3f3f3;
 }
